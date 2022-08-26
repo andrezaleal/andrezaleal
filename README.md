@@ -4,8 +4,6 @@
 
 <h2 align = "justify">Quick Information</h2>
 
-- 🌺 Pronouns: She/They
-
 - 💬 Languages: Portuguese and learning English
 
 - 💻 Front-End Developer at [LAB.ÍRIS](https://irislab.ce.gov.br/)
