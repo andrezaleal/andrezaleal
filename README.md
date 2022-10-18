@@ -6,7 +6,7 @@
 
 - 💬 Languages: Portuguese and learning English
 
-- 💻 Front-End Developer at [LAB.ÍRIS](https://irislab.ce.gov.br/)
+- 💻 Front-End Developer at [LAB.ÍRIS](https://irislab.ce.gov.br/) and [Bugaboo Studio](https://www.bugaboostudio.com)
 
 - 📚 Student at [UFC](https://smd.ufc.br/pt/)
 
@@ -30,8 +30,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
 </div>
 
 
