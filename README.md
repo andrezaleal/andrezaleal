@@ -12,8 +12,8 @@
 
 <br>
 <h2> ⚡ GitHub Stats </h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=andrezaleal&count_private=true&hide=contribs&show_icons=true&bg_color=000&title_color=27C93F&text_color=FFF&icon_color=FFBD2E&border_color=FF5F56&hide_border=true" />
 
-[![Andreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrezaleal)](https://github.com/andrezaleal/github-readme-stats)
 
 <br/>
 <h2> 🚀 Technologies & Tools I use and study </h2>
