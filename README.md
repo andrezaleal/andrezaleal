@@ -10,7 +10,6 @@
 
 - 📚 Student at [UFC](https://smd.ufc.br/pt/)
 
-<br>
 <h2> ⚡ GitHub Stats </h2>
  <div>
   <a href="https://github.com/andrezaleal">
