@@ -13,10 +13,7 @@
 <br>
 <h2> ⚡ GitHub Stats </h2>
     <img src="https://github-readme-stats.vercel.app/api?username=andrezaleal&count_private=true&hide=contribs&show_icons=true&bg_color=000&title_color=27C93F&text_color=FFF&icon_color=FFBD2E&border_color=FF5F56&hide_border=true" />
-
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezaleal&count_private=true&bg_color=000&title_color=FF5F56&text_color=FFF&icon_color=FFBD2E&border_color=FF5F56&hide_border=true&layout=compact&hide=Java,PHP,Ruby,HTML,CSS,SCSS,Hack,CoffeeScript,Less" />
-
-
 <br/>
 <h2> 🚀 Technologies & Tools I use and study </h2>
 
