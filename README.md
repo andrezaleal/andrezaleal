@@ -6,7 +6,7 @@
 
 - 💬 Languages: Portuguese and learning English
 
-- 💻 Front-End Developer at [LAB.ÍRIS](https://irislab.ce.gov.br/) and at [Bugaboo Studio](https://www.bugaboostudio.com)
+- 💻 Software Developer at [Sankhya Gestão de Negócios](https://www.sankhya.com.br/)
 
 - 📚 Student at [UFC](https://smd.ufc.br/pt/)
 
