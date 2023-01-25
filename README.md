@@ -6,7 +6,7 @@
 
 - 💬 Languages: Portuguese and learning English
 
-- 💻 Software Developer at [Sankhya Gestão de Negócios](https://www.sankhya.com.br/)
+- 💻 Software Engineer at [Sankhya Gestão de Negócios](https://www.sankhya.com.br/)
 
 - 📚 Student at [UFC](https://smd.ufc.br/pt/)
 
