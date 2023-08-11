@@ -1,6 +1,6 @@
 <h1 align = "justify">Hello There, I'm Andreza Leal!</h1>
 
-<p align = "justify"> I'm Mobile Developer, I love reading books about true crime and looking foward to my future in the Tech Industry!</p>
+<p align = "justify"> I'm mobile developer, I love reading books about true crime and looking foward to my future in the Tech Industry!</p>
 
 <h2 align = "justify">Quick Information</h2>
 
