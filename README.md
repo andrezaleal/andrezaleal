@@ -1,12 +1,12 @@
 <h1 align = "justify">Hello There, I'm Andreza Leal!</h1>
 
-<p align = "justify"> I'm mobile developer, I love reading books about true crime and looking foward to my future in the Tech Industry!</p>
+<p align = "justify"> I'm frontend and mobile developer, I love reading books about true crime and looking foward to my future in the Tech Industry!</p>
 
 <h2 align = "justify">Quick Information</h2>
 
 - 💬 Languages: Portuguese and learning English
 
-- 💻 Mobile Developer at [Sankhya Gestão de Negócios](https://www.sankhya.com.br/)
+- 💻 Software Developer at [Sankhya Gestão de Negócios](https://www.sankhya.com.br/)
 
 - 📚 Student at [UFC](https://smd.ufc.br/pt/)
 
